@@ -9,3 +9,7 @@ My Readme File<br>
 *_I used this web site to make a call through the website._<br>
     https://www.mistersparky.com/mesa-chandler/
 
+
+*_I used a table border 0 in page services instead of display flex._<br>
+*_I used Java library to add animation on tab contact me, to open Java library open this link then serach for the animation you want I wrote here animated tab on search bar "animate CSS" then chose version 4.1.1._<br>
+https://cdnjs.com/libraries
