@@ -4,10 +4,11 @@ My Readme File<br>
 
  ___This is my final project on HTML/CSS___<br>
 -----------
-____ACKNOWLEDGMENT ____
-*_I used this website to help me to underdtand css_<br>
+ACKNOWLEDGMENT
+----------
+_I used this website to help me to underdtand css_<br>
     https://www.w3schools.com/<br><br>
-*_I used this web site to make a call through the website._<br>
+_I used this web site to make a call through the website._<br>
     https://www.mistersparky.com/mesa-chandler/
 
 
@@ -17,7 +18,7 @@ https://cdnjs.com/libraries
 __I used google font ,the website is__<br>
 https://fonts.gstatic.com"
 
-___My palne in future____
-*Add footer bar
-*Add map for my address
-*make my form to be interactive,send information,backend website
+___My palne in future<br>
+-Add footer bar
+-Add map for my address
+-make my form to be interactive,send information,backend website
