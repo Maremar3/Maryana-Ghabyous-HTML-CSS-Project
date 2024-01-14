@@ -18,7 +18,8 @@ https://cdnjs.com/libraries
 __I used google font ,the website is__<br>
 https://fonts.gstatic.com"
 
-___My palne in future<br>
--Add footer bar
--Add map for my address
--make my form to be interactive,send information,backend website
+My palne in future<br>
+-----------
+-Add footer bar<br>
+-Add map for my address<br>
+-make my form to be interactive,send information,backend website<br>
