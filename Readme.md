@@ -18,7 +18,7 @@ https://cdnjs.com/libraries<br><br>
 __I used google font ,the website is__<br>
 https://fonts.gstatic.com"
 
-My palne in future<br>
+My plane in future<br>
 -----------
 -Add footer bar<br>
 -Add map for my address<br>
