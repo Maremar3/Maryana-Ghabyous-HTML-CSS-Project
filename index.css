@@ -1,0 +1,198 @@
+
+ul {
+ 
+    list-style-type: none;
+    margin-top: 5 rem;
+    padding: 0;
+    overflow: hidden;
+    background-color: #780e06;
+   }
+   li {
+    float: left;
+    border-right: 1px solid #bbb;
+   }
+   li:last-child {
+    border-right: none;
+   }
+   li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+   }
+   li a:hover:not(.active) {
+    background-color: #111;
+   }
+   .active {
+    background-color: #04AA6D;
+   }
+
+   .login-user {
+    height: 1em;
+    margin-right: 0.5em;
+    vertical-align: bottom;
+   }
+   img{
+    width: 90px;
+    height: 110px;
+   }
+ /*   button{
+    margin-right: 10px;
+   } */
+   .nana{
+    display: inline-block;
+    display: flex;
+   /*  align-items: flex-end; */
+  /*  justify-content:center; */
+   }
+   h3{
+   
+    height: 70px;
+    width:800px;
+    justify-content:center;
+    font-size: 2.5rem;
+    color: #780e06;
+   }
+   .head{
+    display: flex;
+    width: 800px;
+    height: 110px;
+    display: inline-block;
+    justify-content:end;
+   }
+  .nana phn-mbl{
+    display: flex;
+    width: 800px;
+    height: 110px;
+    display: inline-block;
+    justify-content:flex-start;
+  /*   display: flex; */
+    margin-right: auto;
+   }
+
+   svg {
+   /*  display: flex; */
+    height: 1em;
+    width: 1em;
+    fill: currentColor;
+    color:#780e06!important;
+    align-items: flex-end;
+ /*   justify-items: flex-start;*/
+   margin-right: auto;
+} 
+.container{
+    display: inline-block;  
+}
+ .phn-mbl svg {
+    color:#780e06;
+
+   /*  display: flex;*/
+    margin-right: auto; 
+} 
+p{
+    
+    font-size: 2.9 rem;
+    font-family: 'Fira Sans', sans-serif;
+    margin: 25px;
+    
+
+}
+.text-justify{
+    display: inline-block;
+    width:50%;
+    height:250;
+    text-indent: 50px;
+    text-align: left ;
+    text-align: justify;
+    line-height: 2 ;
+    display: flex;
+    flex-wrap: wrap;
+/*   text-justify: inter-word; */
+
+}
+/* Headrer inside the paragraph */
+h3{
+   
+    height: 70px;
+width:800px;
+justify-content:center;
+font-size: 2.5rem;
+color: #780e06;
+   }
+h2{
+    font-size: 3.5 rem;
+    margin: 25px;
+   
+    color: #780e06 ;
+}
+/* .minaimage{
+    display:flex;
+} */
+/* .minaimage{
+    float:right;
+}
+.minaimage img{
+
+     width:99%;
+    height: 250px;
+   
+} */
+.smallcontainer{
+    display: flex;
+    /* justify-content: center;*/
+    height: 300px;
+    align-items: flex-end;
+    margin-top: 5rem;
+  
+/*     background-color: DodgerBlue; */
+}
+.minaimage img {
+    float:right;
+    width: 400px;;
+    height:300px;
+    padding-left: 299px;
+  
+}
+/* to add call me link */
+/* element.style {
+    color: #3b3b3b;
+}
+.bc_line_height_28 {
+    line-height: 28px;
+}
+.bc_text_27 {
+    font-size: 27px;
+}
+.bc_text_medium {
+    font-weight: 500;
+}
+.bc_font_alt_1 {
+    font-family: Ubuntu;
+}
+.align-middle {
+    vertical-align: middle!important;
+    text-decoration: none;
+    font-style: normal;
+    align-items: flex-end;
+    margin-right: auto;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.text-center {
+    text-align: center!important;
+} */
+/* end of classes for call me link */
+a{
+    color:#780e06;
+   /*  margin-top: 1.5rem; */
+   padding-top: 70px;
+   text-decoration: none;
+   font-size: large;
+}
+ a:hover:not(.active) {
+    background-color:bisque;
+  /*   height: 10px; */
+   }
+ 

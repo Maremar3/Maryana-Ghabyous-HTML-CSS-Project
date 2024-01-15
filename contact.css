@@ -1,0 +1,49 @@
+form{
+    /* margin-left: 3rem;
+    margin-top: 10rem; */
+    
+    width: 550px;
+}
+.text-justify img{
+    float:left;
+    width: 400px;;
+    height:300px;
+    padding-left: 35px;
+}
+.smallcontainercontact
+{
+display: flex;
+width: 70%;
+/* justify-content: center;*/
+height: 700px;
+align-items: flex-end;
+margin-top: 2rem;
+/* background-color: DodgerBlue;  */
+}
+/* .container form{
+    float:right;
+    width: 400px;;
+    height:300px;
+    padding-left: 299px;
+
+} */
+.formcontainer form{
+    float:right;
+    width: 500px;;
+    height:480px;
+    padding-left: 99px;
+}
+.text-center {
+    text-align: center;
+  }
+  a{
+    color:#780e06;
+   /*  margin-top: 1.5rem; */
+   padding-top: 70px;
+   text-decoration: none;
+   font-size: large;
+}
+ a:hover:not(.active) {
+    background-color:bisque;
+  /*   height: 10px; */
+   }
